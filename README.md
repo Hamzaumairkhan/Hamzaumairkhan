@@ -72,6 +72,15 @@ Modern web applications using the MERN stack.
 
 <div align="center">
 
+---
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Hamzaumairkhan/Hamzaumairkhan/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
 ### 🚀 Thanks for visiting!
 
 *"The best way to predict the future is to build it."*
