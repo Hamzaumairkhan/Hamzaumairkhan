@@ -14,16 +14,16 @@
 
 🚀 Passionate about building AI-powered applications and automation systems.
 
-- 🔭 Currently building **AI Agents & Full-Stack Applications**
+- 🔭 Building AI Agents & Full-Stack Applications
 - 🌱 Learning **Harness Engineering, Agentic AI & AI System Design**
 - 💻 MERN Stack Developer
 - 🧠 Exploring LangChain, LangGraph & MCP
-- 📖 I enjoy learning in public and sharing what I build.
-- ⚡ Motto: **Code. Learn. Build. Repeat.**
+- 📖 Learning in public and sharing my journey.
+- ⚡ **Code. Learn. Build. Repeat.**
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -33,7 +33,7 @@
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### 🤖 AI Website Builder
 Generate complete websites using AI.
@@ -42,11 +42,11 @@ Generate complete websites using AI.
 Autonomous AI workflows with tool calling.
 
 ### 🌐 Full Stack Web Apps
-Modern web applications using MERN.
+Modern web applications using the MERN stack.
 
 ---
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
 - AI Agents
 - Harness Engineering
@@ -58,7 +58,7 @@ Modern web applications using MERN.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -70,7 +70,7 @@ Modern web applications using MERN.
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <div align="center">
 
@@ -80,7 +80,7 @@ Modern web applications using MERN.
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -90,22 +90,12 @@ Modern web applications using MERN.
 
 ---
 
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamzaumairkhan&theme=tokyo-night&hide_border=true"/>
-
----
-
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="left">
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/hamza-umair-khan-5b7674268/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:your@email.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
