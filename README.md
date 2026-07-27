@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer • AI Engineer • Building AI Agents
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Building+AI+Agents;Full-Stack+Developer;MERN+Stack+Developer;Learning+in+Public;Always+Building+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+AI+Agents;Full-Stack+Developer;MERN+Stack+Developer;Learning+in+Public;Always+Building+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,14 +12,15 @@
 
 ## 👨‍💻 About Me
 
-🚀 Passionate about building AI-powered applications and automation systems.
+I'm passionate about building AI-powered products that solve real-world problems.
 
-- 🔭 Building AI Agents & Full-Stack Applications
-- 🌱 Learning **Harness Engineering, Agentic AI & AI System Design**
-- 💻 MERN Stack Developer
-- 🧠 Exploring LangChain, LangGraph & MCP
-- 📖 Learning in public and sharing my journey.
-- ⚡ **Code. Learn. Build. Repeat.**
+- 🤖 Building AI Agents & Intelligent Automation
+- 🌐 Full-Stack MERN Developer
+- 🧠 Learning Harness Engineering, Agentic AI & AI System Design
+- ⚙️ Exploring LangChain, LangGraph & MCP
+- 🚀 Learning in public and shipping projects consistently
+
+> **"Code. Learn. Build. Repeat."**
 
 ---
 
@@ -27,64 +28,65 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,docker,git,github,vscode,figma,tailwind&perline=7"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,express,mongodb,python,docker,git,github,vscode,figma,tailwind&perline=8"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I'm Working On
 
-### 🤖 AI Website Builder
-Generate complete websites using AI.
-
-### 🧠 AI Agents
-Autonomous AI workflows with tool calling.
-
-### 🌐 Full Stack Web Apps
-Modern web applications using the MERN stack.
+- 🤖 AI Agents
+- 🧠 Agentic AI
+- ⚡ AI Automation
+- 🌐 Full-Stack Web Applications
+- 🐳 Docker
+- ☁️ AI System Design
 
 ---
 
 ## 🌱 Currently Learning
 
-- AI Agents
 - Harness Engineering
 - LangGraph
-- MCP (Model Context Protocol)
-- Docker
+- Model Context Protocol (MCP)
 - Kubernetes
-- AI System Design
+- AI Infrastructure
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="left">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/hamza-umair-khan-5b7674268/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-</p>
+&nbsp;&nbsp;
+
+<a href="mailto:hamzaumairkhan30@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+📧 **hamzaumairkhan30@gmail.com**
+
+</div>
 
 ---
 
 <div align="center">
 
----
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Hamzaumairkhan/Hamzaumairkhan/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-### 🚀 Thanks for visiting!
+### 🚀 Thanks for visiting my profile!
 
 *"The best way to predict the future is to build it."*
 
-![](https://komarev.com/ghpvc/?username=Hamzaumairkhan&color=blue&style=flat)
+![](https://komarev.com/ghpvc/?username=Hamzaumairkhan&label=Profile%20Views&color=3B82F6&style=for-the-badge)
 
 </div>
