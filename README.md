@@ -28,7 +28,7 @@ I'm passionate about building AI-powered products that solve real-world problems
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,express,mongodb,python,docker,git,github,vscode,figma,tailwind&perline=8"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,docker,git,github,vscode,figma,tailwind&perline=8"/>
 
 </div>
 
